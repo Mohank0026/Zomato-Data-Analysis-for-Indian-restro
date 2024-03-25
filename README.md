@@ -5,7 +5,6 @@ output - location_type, locatio_booktable, location_online
 **Focus**: Analyze Zomato data to understand factors affecting restaurant ratings in Bengaluru.
 
 **Key factors to explore:**
-
 _Restaurant characteristics:_
 - Cuisine type (e.g., Italian, vegetarian)
 - Price range
